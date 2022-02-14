@@ -24,7 +24,7 @@ namespace PolyHW1
             #region Task2
 
             //Employe employe0 = new Employe("Tural", 2000, "Programmer");
-            //Employe employe1 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe1 = new Employe("Onur", 2000, "Programmer");
             //Employe employe2 = new Employe("Tural", 2000, "Programmer");
             //Employe employe3 = new Employe("Tural", 2000, "Programmer");
             //Employe employe4 = new Employe("Tural", 2000, "Programmer");
@@ -35,7 +35,7 @@ namespace PolyHW1
             //Employe employe9 = new Employe("Tural", 2000, "Programmer");
             //Employe employe10 = new Employe("Tural", 2000, "Programmer");
 
-            //Company company = new Company("Intel",10);
+            //Company company = new Company("Intel", 10);
 
             //Company.AddEmploye(employe0);
             //Company.AddEmploye(employe1);
@@ -48,8 +48,8 @@ namespace PolyHW1
             //Company.AddEmploye(employe8);
             //Company.AddEmploye(employe9);
             //Company.AddEmploye(employe10);
-            
-            
+
+
 
             //Employe[] employe_arr = company.GetEmployes();
 
@@ -65,12 +65,18 @@ namespace PolyHW1
             //    }
             //}
 
-            //Company.RemoveEmploye(ref employe_arr,5);
+            //Company.RemoveEmploye(ref employe_arr, 5);
 
             //Print(employe_arr);
-           
+
+            //Employe emp = Company.SearchEmployes("Onur");
+            //Console.Write($"No - {emp.No}\nName - {emp.Fullname}\nSalary - {emp.Salary}\nPosition {emp.Position}\n");
+
+
 
             #endregion
+
+
         }
 
 
