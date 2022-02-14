@@ -76,6 +76,12 @@ namespace PolyHW1
 
             #endregion
 
+            #region Task3
+
+            //User user = new User("Tural Aliyev", "CybraryPM@gmail.com", "123");
+            //user.ShowInfo();
+            #endregion
+
 
         }
 
