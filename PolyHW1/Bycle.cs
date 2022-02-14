@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PolyHW1
 {
-    public class Bycle : Vehicle
+    internal class Bycle : Vehicle
     {
 
         public Bycle(string brand, string color, double milliage) : base(brand, color, milliage)

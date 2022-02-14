@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PolyHW1
 {
-    public abstract class Vehicle
+    internal abstract class Vehicle
     {
         public string Color { get; set; }
         public string Brand { get; set; }

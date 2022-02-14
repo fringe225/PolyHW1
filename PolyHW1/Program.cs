@@ -21,11 +21,61 @@ namespace PolyHW1
             //bycle.ShowInfo();
             #endregion
 
-        }
-        
+            #region Task2
 
-        
-        
-       
+            //Employe employe0 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe1 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe2 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe3 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe4 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe5 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe6 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe7 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe8 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe9 = new Employe("Tural", 2000, "Programmer");
+            //Employe employe10 = new Employe("Tural", 2000, "Programmer");
+
+            //Company company = new Company("Intel",10);
+
+            //Company.AddEmploye(employe0);
+            //Company.AddEmploye(employe1);
+            //Company.AddEmploye(employe2);
+            //Company.AddEmploye(employe3);
+            //Company.AddEmploye(employe4);
+            //Company.AddEmploye(employe5);
+            //Company.AddEmploye(employe6);
+            //Company.AddEmploye(employe7);
+            //Company.AddEmploye(employe8);
+            //Company.AddEmploye(employe9);
+            //Company.AddEmploye(employe10);
+            
+            
+
+            //Employe[] employe_arr = company.GetEmployes();
+
+            //Print(employe_arr);
+
+
+
+            //static void Print(Employe[] employe_arr)
+            //{
+            //    foreach (var item in employe_arr)
+            //    {
+            //        Console.Write($"No - {item.No}\nName - {item.Fullname}\nSalary - {item.Salary}\nPosition {item.Position}\n");
+            //    }
+            //}
+
+            //Company.RemoveEmploye(ref employe_arr,5);
+
+            //Print(employe_arr);
+           
+
+            #endregion
+        }
+
+
+
+
+
     }
 }

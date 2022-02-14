@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PolyHW1
 {
-    public class Car : Vehicle
+    internal class Car : Vehicle
     {
         public double FuelCapacity { get; set; }
         public double CurrentFuel { get; set; }
